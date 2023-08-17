@@ -23,11 +23,36 @@
 - 7/5(수) - 지원 마감
 - 7/11(월) - 프로젝트 기획안 제출
 - 8/3(수) - 프로젝트 중간발표
-- 8/21(일) - 프로젝트 최종발표
+- 8/21(월) - 프로젝트 최종발표
 
 ## 프로젝트
 
+### 🤝 재원팀
+> 기숙사 룸메이트 매칭 서비스
+
+### 😆 정우팀
+> 닮은꼴 찾기
+
+https://github.com/leejeongwoo1/23TGHON
+
+### ✈️ 소현팀
+> 여행 지역 땅따먹기
+
+https://github.com/orgs/ChromaVoyage/repositories
+
+### 🌆 혁승팀
+> 이미지를 설명하는 AI
+
+https://github.com/JEILDLWLRMA/ImageGPT
+
+### 💎 지성팀
+> 로고 인식 및 검색 서비스
+
+https://github.com/orgs/LogoVision/repositories
+
+###
+
 ## 평가단
-|||||||
+| [<img src="https://lh4.googleusercontent.com/eP0FUYpNZCtV0hlbX7rULDlAcEnz0HMzG3svYTnHBGOEBEkpyZAu1j4DI6tT7vvCD45lMg=w1280" width="100px"/>](https://mlvc.khu.ac.kr/) | [<img src="https://avatars.githubusercontent.com/u/38072762?v=4" width="100px">](https://github.com/lsj8706) | [<img src="" width="100px">]() | [<img src="https://avatars.githubusercontent.com/u/77267404?v=4" width="100px">](https://github.com/lsj8706) | [<img src="https://moon1x21.github.io/assets/img/prof_pic.jpg" width="100px">](https://moon1x21.github.io/) | [<img src="https://avatars.githubusercontent.com/u/57341543?v=4" width="100px">](https://github.com/cksdlakstp12?tab=repositories) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|👑배성호 교수님|15 강환석|16 강태우|18 이세진|19 문주은|19 이찬|
+|[👑배성호 교수님](https://mlvc.khu.ac.kr/)|[15 강환석](https://github.com/Hwan-seok)|[16 강태우]()|[18 이세진](https://github.com/lsj8706)|[19 문주은](https://moon1x21.github.io/)|[19 이찬](https://github.com/cksdlakstp12?tab=repositories)|
