@@ -35,7 +35,7 @@
 ### 😆 정우팀
 > 닮은꼴 찾기
 
-https://github.com/leejeongwoo1/23TGHON
+https://github.com/leejeongwoo1/facenet-web-project
 
 ### ✈️ 소현팀
 > 여행 지역 땅따먹기
