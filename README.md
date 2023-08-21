@@ -45,7 +45,10 @@ https://github.com/orgs/ChromaVoyage/repositories
 ### 🌆 혁승팀
 > 이미지를 설명하는 AI
 
-https://github.com/JEILDLWLRMA/ImageGPT
+- [AI part.1](https://github.com/JEILDLWLRMA/ImageGPT_AI)
+- [AI part.2](https://huggingface.co/JEILDLWLRMA/LHS-git-vqa-fine-tuned)
+- [Front-end](https://github.com/luckthedoor/ImageGPT)
+- [Back-end](https://github.com/penguin234/imagpt-back)
 
 ### 💎 지성팀 (기권)
 > 로고 인식 및 검색 서비스
