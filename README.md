@@ -37,7 +37,7 @@
 
 https://github.com/leejeongwoo1/facenet-web-project
 
-### ✈️ 소현팀
+### ✈️ 소현팀 🏆
 > 여행 지역 땅따먹기
 
 https://github.com/orgs/ChromaVoyage/repositories
