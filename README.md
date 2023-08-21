@@ -47,10 +47,10 @@ https://github.com/orgs/ChromaVoyage/repositories
 
 https://github.com/JEILDLWLRMA/ImageGPT
 
-### 💎 지성팀
+### 💎 지성팀 (기권)
 > 로고 인식 및 검색 서비스
 
-https://github.com/orgs/LogoVision/repositories
+~~https://github.com/orgs/LogoVision/repositories~~
 
 
 ### 🤝 재원팀 (기권)
